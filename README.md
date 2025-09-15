@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="margin-bottom:100px" width="100%" src="assets/banner_gati.png" />
+  <img style="margin-bottom:100px" width="100%" src="banner_gati.png" />
 </div>
 
 
